@@ -1,0 +1,26 @@
+[
+  {
+    "name":"SQL",
+    "status": "Approved",
+    "date": "18 Apr 2022",
+    "progress": 75.5  
+  },
+  {
+    "name":"PowerBI",
+    "status": "Error",
+    "date": "18 Apr 2022",
+    "progress": 25.5  
+  },
+  {
+    "name":"Python",
+    "status": "Approved",
+    "date": "20 May 2021",
+    "progress": 90  
+  },
+  {
+    "name":"Machine Learning",
+    "status": "Approved",
+    "date": "12 Jul 2021",
+    "progress": 50.5  
+  }
+]
