@@ -1,0 +1,31 @@
+[{
+  "name":["Python",false],
+  "duration": 2458, 
+  "date": "12 Jan 2021",
+  "progress": 17.5  
+},
+{
+  "name":["SQL",true],
+  "duration": 1485, 
+  "date": "21 Feb 2021",
+  "progress": 10.8  
+},
+{
+  "name":["Probability and Statistics",true],
+  "duration": 1024, 
+  "date": "13 Mar 2021",
+  "progress": 21.3  
+},
+{
+  "name":["Machine Learning",true],
+  "duration": 858, 
+  "date": "24 Jan 2021",
+  "progress": 31.5  
+},
+{
+  "name":["PowerBI",false],
+  "duration": 258, 
+  "date": "24 Oct 2022",
+  "progress": 12.2  
+}
+]
